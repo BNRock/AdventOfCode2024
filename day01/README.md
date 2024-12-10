@@ -8,4 +8,8 @@
 - for loop:
     - in each array, take absolute val of difference between min number, add to counter sum, then remove from array
     - return sum
-    
+
+
+# part two:
+- loop thru left list, count how many times each number is in right list, add product to sum
+
